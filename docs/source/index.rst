@@ -1,5 +1,27 @@
-Welcome to Lumache's documentation!
+Welcome to botcore documentation!
 ===================================
+
+**BotCore** is a Discord bot frameword writen with Discord.js.
+
+BotCore currently have this features:
+
+* Modules system
+* Package repository (unstable)
+* CLI
+
+Planned features:
+
+* Web dashboard
+* Custom templates (for disabled commands, errors, etc)
+* Localization support
+
+
+***************
+Getting started
+***************
+
+
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
