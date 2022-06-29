@@ -25,6 +25,6 @@ Contents
 
 .. toctree::
 
-   getstarted
    usage
-   api
+   cli
+   pkg
