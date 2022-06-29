@@ -19,9 +19,9 @@ Then move into cloned repository and install dependencies:
 
 	$ npm install
 
-.. _configuring:
+.. _configuration:
 
-Configuring
+Configuration
 -----------
 
 Config fields:
