@@ -27,4 +27,7 @@ Configuring
 Config fields:
 
 logger
-    Logger options
+    Logger options.
+
+    debug
+        Enable debug mode
