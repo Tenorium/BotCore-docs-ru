@@ -30,4 +30,8 @@ logger
     Logger options.
 
     debug
+        :type: Boolean
         Enable debug mode
+    dateformat
+        :type: String
+        Compatible with `moment.js <https://momentjs.com/docs/#/displaying/format/>`_ date format
