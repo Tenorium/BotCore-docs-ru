@@ -11,7 +11,7 @@ Default Commands
 CLI have some default commands.
 Below you can see table with default commands
 
-+---------------------------------------------------------------+
++---------------+--------------------------------+--------------+
 | Command name  | Command description            | Command usage|
 +===============+================================+==============+
 |shutdown       |This command unloads all modules|              |
