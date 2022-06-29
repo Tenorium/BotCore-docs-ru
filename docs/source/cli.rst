@@ -35,4 +35,4 @@ Below you can see table with default commands
     | disable   | Disable specified command   |disable <command>|
     +-----------+-----------------------------+-----------------+
 
-.. [2] Subcommands of command ``pkg`` specified in :ref:`pkgcommands`
+.. [2] Subcommands of command ``pkg`` specified in :ref:`pkgCommands`

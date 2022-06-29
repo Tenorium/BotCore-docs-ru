@@ -1,7 +1,7 @@
 Package Manager
 ===============
 
-.. _pkgcommands:
+.. _pkgCommands:
 
 CLI commands
 ------------
