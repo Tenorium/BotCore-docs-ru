@@ -49,6 +49,7 @@ Starting
 --------
 
 For start bot run next command:
+
 .. code-block:: console
 
     $ npm run bot
