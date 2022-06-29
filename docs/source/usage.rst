@@ -6,29 +6,21 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use BotBore, first clone with git:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+    $ git clone https://github.com/Tenorium/BotCore.git
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Then move into cloned repository and install dependencies:
 
-.. autofunction:: lumache.get_random_ingredients
+.. code-block:: console
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+	$ npm install
 
-.. autoexception:: lumache.InvalidKindError
+.. _configuring:
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Configuring
+-----------
 
