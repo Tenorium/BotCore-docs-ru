@@ -20,6 +20,8 @@ Below you can see table with default commands
 |command        |Manage commands (activate or deactivate)|command <subcommand> [1]_ [args] |
 |               |                                        |                                 |
 +---------------+----------------------------------------+---------------------------------+
+|pkg            |Manage packages                         |pkg <subcommand> [2]_ [args]     |
++---------------+----------------------------------------+---------------------------------+
 
 .. [1] Subcommands of command ``command``
 
@@ -32,3 +34,5 @@ Below you can see table with default commands
     +-----------+-----------------------------+-----------------+
     | disable   | Disable specified command   |disable <command>|
     +-----------+-----------------------------+-----------------+
+
+.. [2] Subcommands of command ``pkg`` specified in :ref:`pkgcommands`
