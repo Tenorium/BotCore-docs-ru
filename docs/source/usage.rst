@@ -22,7 +22,7 @@ Then move into cloned repository and install dependencies:
 .. _configuration:
 
 Configuration
------------
+--------------
 
 Config fields:
 
@@ -44,3 +44,12 @@ token
     Discord bot token
 prefix
     Prefix for commands
+
+Starting
+--------
+
+For start bot run next command:
+.. code-block:: console
+
+    $ npm run bot
+
