@@ -13,7 +13,8 @@ Planned features:
 
 * Web dashboard
 * Custom templates (for disabled commands, errors, etc)
-* Localization support
+* Full localization support
+* Slash commands
 
 
 Check out the :doc:`usage` section for further information, including
