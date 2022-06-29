@@ -40,5 +40,6 @@ Contents
 
 .. toctree::
 
+   getstarted
    usage
    api
