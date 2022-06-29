@@ -24,3 +24,7 @@ Then move into cloned repository and install dependencies:
 Configuring
 -----------
 
+Config fields:
+
+logger
+    Logger options
