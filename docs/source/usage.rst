@@ -54,3 +54,4 @@ For start bot run next command:
 
     $ npm run bot
 
+After starting you can see logs and :doc:`cli` prompt.
