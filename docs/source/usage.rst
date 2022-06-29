@@ -35,3 +35,5 @@ logger
     dateformat
         :type: String
         Compatible with `moment.js <https://momentjs.com/docs/#/displaying/format/>`_ date format
+client
+    `Options <https://discord.js.org/#/docs/main/stable/typedef/ClientOptions>`_ for Discord.JS client
