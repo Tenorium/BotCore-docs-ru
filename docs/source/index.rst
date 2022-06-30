@@ -31,4 +31,4 @@ Contents
    usage
    cli
    pkg
-   api/test
+   api/*
