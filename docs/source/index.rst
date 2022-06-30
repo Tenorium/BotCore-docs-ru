@@ -28,3 +28,4 @@ Contents
    usage
    cli
    pkg
+   api/test
