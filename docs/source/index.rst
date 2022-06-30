@@ -27,7 +27,7 @@ Contents
 --------
 
 .. toctree::
-
+   :glob:
    usage
    cli
    pkg
