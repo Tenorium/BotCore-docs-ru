@@ -1,10 +1,10 @@
-Usage
-=====
+Использование
+============
 
 .. _installation:
 
-Installation
-------------
+Установка
+---------
 
 To use BotBore, first clone with git:
 

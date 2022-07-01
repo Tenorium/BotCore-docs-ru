@@ -1,24 +1,22 @@
-Welcome to botcore documentation!
+Добро пожаловать в документацию BotCore!
 ===================================
 
-**BotCore** is a Discord bot framework written with Discord.js.
+**BotCore** это фреймворк для Discord бота написанный с помощью Discord.js.
 
-BotCore currently have this features:
+BotCore в данный момент имеет эти особенности:
 
-* Modules system
-* Package repository (unstable)
+* Система модулей
+* Пакетный менеджер (нестабильно)
 * CLI
 
-Planned features:
+Запланированные особенности:
 
-* Web dashboard
-* Custom templates (for disabled commands, errors, etc)
-* Full localization support
-* Slash commands
+* Веб-панель управления
+* Пользовательские шаблоны (for disabled commands, errors, etc для предупреждений, ошибок и т.д.)
+* Полная поддержка локализации
+* Слэш-команды
 
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Проверьте :doc:`usage` для получение дальнейшей информации, включая :doc:`Установку <installation>` проекта.
 
 Contents
 --------
