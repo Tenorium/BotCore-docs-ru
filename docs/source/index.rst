@@ -24,10 +24,9 @@ Contents
 --------
 
 .. toctree::
-   :glob:
 
    index
    usage
    cli
    pkg
-   api/*
+   api/index
