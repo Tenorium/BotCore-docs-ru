@@ -19,10 +19,14 @@ Then move into cloned repository and install dependencies:
 
 	$ npm install
 
+Rename config example from :file:`config/core.config.js.example` to :file:`config/core.config.js`.
+
 .. _configuration:
 
 Configuration
 --------------
+
+Main config file is :file:`config/core.config.js`
 
 Config fields:
 
