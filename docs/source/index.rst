@@ -25,7 +25,6 @@ Contents
 
 .. toctree::
 
-   index
    usage
    cli
    pkg
